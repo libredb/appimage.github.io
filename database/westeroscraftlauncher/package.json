@@ -19,12 +19,12 @@
   },
   "homepage": "http://www.westeroscraft.com/",
   "dependencies": {
-    "adm-zip": "^0.4.11",
+    "adm-zip": "^0.6.0",
     "async": "^2.6.1",
     "discord-rpc": "^3.0.0",
-    "ejs": "^2.6.1",
+    "ejs": "^6.0.1",
     "ejs-electron": "^2.0.3",
-    "electron-updater": "^3.1.2",
+    "electron-updater": "^6.8.9",
     "github-syntax-dark": "^0.5.0",
     "jquery": "^3.3.1",
     "mkdirp": "^0.5.1",
@@ -32,7 +32,7 @@
     "rimraf": "^2.6.2",
     "semver": "^5.5.1",
     "tar-fs": "^1.16.3",
-    "uuid": "^3.3.2",
+    "uuid": "^14.0.2",
     "winreg": "^1.2.4"
   }
 }
