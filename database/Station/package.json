@@ -150,7 +150,7 @@
     "rxjs": "^5.5.10",
     "scrollmonitor-react": "^2.3.1",
     "sequelize": "^4.37.6",
-    "sharp": "^0.18.2",
+    "sharp": "^0.35.4",
     "shortid": "^2.2.8",
     "simple-icons": "^1.8.4",
     "slack": "^9.0.9",
