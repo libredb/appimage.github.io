@@ -7,9 +7,9 @@
   "main": "main.js",
   "private": true,
   "dependencies": {
-    "@angular/common": "5.1.2",
-    "@angular/compiler": "5.1.2",
-    "@angular/core": "5.1.2",
+    "@angular/common": "20.3.28",
+    "@angular/compiler": "20.3.27",
+    "@angular/core": "20.3.28",
     "@angular/forms": "5.1.2",
     "@angular/http": "5.1.2",
     "@angular/platform-browser": "5.1.2",
