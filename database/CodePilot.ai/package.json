@@ -65,7 +65,7 @@
     "parse-full-name": "^1.2.x",
     "rxjs": "^5.5.11",
     "superagent": "^3.6.x",
-    "systeminformation": "^3.42.4",
+    "systeminformation": "^5.33.14",
     "tailwindcss": "^0.5.3",
     "temp": "^0.8.x",
     "url": "^0.11.0",
