@@ -6,7 +6,7 @@
   "license": null,
   "main": "./dist/electron/main.js",
   "dependencies": {
-    "adm-zip": "^0.4.13",
+    "adm-zip": "^0.6.1",
     "auto-launch": "^5.0.5",
     "chokidar": "^2.0.4",
     "cryptr": "^4.0.2",
