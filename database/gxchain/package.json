@@ -7,7 +7,7 @@
   "license": "MIT",
   "main": "./dist/electron/main.js",
   "dependencies": {
-    "adm-zip": "^0.4.11",
+    "adm-zip": "^0.6.1",
     "axios": "^0.16.1",
     "bluebird": "^3.5.1",
     "bourbon": "^5.1.0",
