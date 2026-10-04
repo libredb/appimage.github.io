@@ -85,7 +85,7 @@
     "formik": "^2.1.4",
     "fs-extra": "^8.1.0",
     "history": "^4.9.0",
-    "image-size": "^0.8.3",
+    "image-size": "^2.0.4",
     "immer": "^6.0.3",
     "ip": "^1.1.5",
     "js-cookie": "^2.2.1",
