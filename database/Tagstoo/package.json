@@ -5,7 +5,7 @@
   "version": "1.12.3",
   "main": "app.js",
   "dependencies": {
-    "adm-zip": "^0.4.7",
+    "adm-zip": "^0.6.1",
     "drivelist": "^5.0.4",
     "fs-extra": "^1.0.0",
     "indexeddb-export-import": "^1.0.0",
