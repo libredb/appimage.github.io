@@ -19,7 +19,7 @@
   },
   "homepage": "http://www.westeroscraft.com/",
   "dependencies": {
-    "adm-zip": "^0.4.11",
+    "adm-zip": "^0.6.1",
     "async": "^2.6.1",
     "discord-rpc": "^3.0.0",
     "ejs": "^2.6.1",
