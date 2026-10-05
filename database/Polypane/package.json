@@ -39,7 +39,7 @@
     "h5o": "kilian/h5o-js",
     "hazardous": "^0.3.0",
     "html-validate": "^5.2.0",
-    "image-size": "^1.0.0",
+    "image-size": "^2.0.4",
     "jimp": "^0.16.1",
     "kagekiri": "^1.4.1",
     "lodash.debounce": "^4.0.8",
