@@ -13,7 +13,7 @@
     "lodash": "^4.17.5",
     "lodash-id": "^0.14.0",
     "lowdb": "^1.0.0",
-    "markdown-it": "^8.4.1",
+    "markdown-it": "^15.0.2",
     "prismjs": "^1.14.0",
     "system-icon": "^0.1.2",
     "velocity-animate": "^1.5.1",
