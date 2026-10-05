@@ -4,7 +4,7 @@
   "repository": "github:Pingendo/pingendo",
   "license": "MIT",
   "dependencies": {
-    "adm-zip": "^0.4.11",
+    "adm-zip": "^0.6.1",
     "angular": "^1.7.5",
     "angular-tree-control": "^0.2.30",
     "autoprefixer": "^9.2.1",
