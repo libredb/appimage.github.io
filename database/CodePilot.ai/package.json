@@ -54,7 +54,7 @@
     "html-to-markdown": "^1.0.x",
     "lodash": "^4.17.x",
     "lucene-query-parser": "^1.2.0",
-    "markdown-it": "^8.4.1",
+    "markdown-it": "^15.0.2",
     "minimist": "^1.2.x",
     "mkdirp": "^0.5.x",
     "monaco-editor": "^0.10.1",
